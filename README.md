@@ -46,7 +46,7 @@ Meu objetivo é transformar dados em decisões por meio de **dashboards**, **an�
 ## 🔗 Conecte-se comigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jacksonls)
-- 📫 jackson[seuemail]@exemplo.com (substitua aqui pelo real)
+- 📫 jackson.lopes@tutanota.com
 - 🌐 Em breve: Portfólio online
 
 ---
