@@ -36,7 +36,6 @@ Meu objetivo é transformar dados em decisões por meio de **dashboards**, **an�
 ## 🔗 Conecte-se comigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jacksonls)
-- 🗂️ [Portfólio](https://jacksonlds.github.io/portfolio/)
 
 ---
 
