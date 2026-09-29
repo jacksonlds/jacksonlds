@@ -10,7 +10,7 @@ Meu objetivo é transformar dados em decisões por meio de **dashboards**, **an�
 
 - **Linguagens**: Python, SQL
 - **Bibliotecas Python**: Pandas, Numpy
-- **Visualização de Dados**: Power BI, Tableau
+- **Visualização de Dados**: Power BI, Looker
 - **Bancos de Dados**: PostgreSQL, MySQL, SQLite
 - **Outros**: Git, Jupyter Notebook
 
