@@ -1,8 +1,6 @@
 # 👋 Olá! Eu sou o Jackson
 
-Sou um profissional com experiência nas áreas de **Planejamento e Controle da Produção (PCP)**, **controle de estoque**, **financeiro** e **recuperação de crédito**, atualmente focado em desenvolver soluções com **Análise de Dados**.
-
-Meu objetivo é transformar dados em decisões por meio de **dashboards**, **análises exploratórias** e **modelagem de dados**, contribuindo para a melhoria de processos e desempenho de negócios.
+Analista Administrativo e Financeiro com mais de 5 anos de experiência na otimização de processos e tomada de decisão orientada a dados. Especialista no desenvolvimento de indicadores de desempenho, relatórios críticos de Business Intelligence e automação de rotinas para redução de custos e mitigação de riscos. Sólida vivência em controles financeiros, gestão de cobranças, compliance e estruturação de documentação departamental, combinando visão de negócios com habilidades técnicas em ferramentas analíticas e ambientes em nuvem.
 
 ---
 
